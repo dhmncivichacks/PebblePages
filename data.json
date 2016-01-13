@@ -3,7 +3,7 @@
   "fields": {
     "address": {
       "type": "text",
-      "title": "Enter your address (no zip code)"
+      "title": "Enter your address (Include city, but no zip code)"
     },
     "zipcode": {
       "type": "number",
